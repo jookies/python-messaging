@@ -1,0 +1,68 @@
+++++++++++++++++++++++++++++++++++++++++++++++
+python-messaging-0.5.9
+Overview of changes since python-messaging-0.5
+++++++++++++++++++++++++++++++++++++++++++++++
+
+This is an interim release of python-messaging. List of changes:
+
+ * See Git log for details
+
+
+++++++++++++++++++++++++++++++++++++++++++++++
+python-messaging-0.5
+Overview of changes since python-messaging-0.4
+++++++++++++++++++++++++++++++++++++++++++++++
+
+This is a new major stable release of python-messaging. List of changes:
+
+ * Py3K fixes
+ * GSM 7bit encoding fixes
+ * Additional testing
+
+
+++++++++++++++++++++++++++++++++++++++++++++++
+python-messaging-0.4
+Overview of changes since python-messaging-0.3
+++++++++++++++++++++++++++++++++++++++++++++++
+
+This is a new major stable release of python-messaging. List of changes:
+
+ * Py3K support
+ * GSM 7bit decoding fixes
+
+
+++++++++++++++++++++++++++++++++++++++++++++++
+python-messaging-0.3
+Overview of changes since python-messaging-0.2
+++++++++++++++++++++++++++++++++++++++++++++++
+
+This is a new major stable release of python-messaging. List of changes:
+
+ * API has changed, decode_pdu returns a dictionary now
+ * SMS status report encoding
+ * SMS status report decoding by the MobileManager project
+ * Decoder completely revamped (code way cleaner)
+ * Support for alphanumeric addresses contributed by Andrew Bird
+ * Time offset fix by Andrew Bird
+ * Debian package migrated to pycentral
+ * Switched to distribute
+
+
+++++++++++++++++++++++++++++++++++++++++++++++
+python-messaging-0.2
+Overview of changes since python-messaging-0.1
+++++++++++++++++++++++++++++++++++++++++++++++
+
+This is a new major stable release of python-messaging. List of changes:
+
+ * Fix the case where there is no SMSC
+ * Some multi-part fixes pulled from mobile-manager
+ * Test coverage increased
+ * Docstrings updated to rst
+ * Some packaging fixes
+ * Some small code simplifications
+
+python-messaging-0.1
+++++++++++++++++++++
+
+ * Initial release

@@ -1,0 +1,13 @@
+Source: python-messaging
+Section: net
+Priority: extra
+Maintainer: Pablo Martí Gamboa <pmarti@warp.es>
+Build-Depends: cdbs (>= 0.4.49), debhelper (>= 5.0.38), python-central (>= 0.5.6)
+Standards-Version: 3.8.3
+XS-Python-Version: >= 2.5
+
+Package: python-messaging
+Architecture: all
+Depends: python (>= 2.5), ${python:Depends}, ${misc:Depends}, ${shlibs:Depends}
+XB-Python-Version: >= 2.5
+Description: A SMS encoding/decoding library

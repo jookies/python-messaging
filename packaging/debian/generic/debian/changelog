@@ -1,0 +1,60 @@
+python-messaging (0.5.12-1) lucid; urgency=low
+
+  * New upstream version
+
+ -- Andrew Bird <ajb@spheresystems.co.uk>  Tue, 24 Jan 2012 13:50:24 +0000
+
+python-messaging (0.5.11-1) lucid; urgency=low
+
+  * New upstream version
+
+ -- Andrew Bird <ajb@spheresystems.co.uk>  Tue, 30 Aug 2011 19:12:02 +0100
+
+python-messaging (0.5.10-1) lucid; urgency=low
+
+  * New upstream version
+
+ -- Andrew Bird <ajb@spheresystems.co.uk>  Tue, 01 Mar 2011 12:52:00 +0000
+
+python-messaging (0.5.9-1) lucid; urgency=low
+
+  * New upstream version
+
+ -- Pablo Martí Gamboa <pmarti@warp.es>  Wed, 28 Jul 2010 09:12:45 +0200
+
+python-messaging (0.5-1) lucid; urgency=low
+
+  * New upstream version
+
+ -- Andrew Bird <ajb@spheresystems.co.uk>  Fri, 18 Jun 2010 14:36:15 +0100
+
+python-messaging (0.4-2) lucid; urgency=low
+
+  * Packaging tweak
+
+ -- Andrew Bird <ajb@spheresystems.co.uk>  Tue, 08 Jun 2010 14:19:45 +0100
+
+python-messaging (0.4-1) lucid; urgency=low
+
+  * New upstream version
+
+ -- Andrew Bird <ajb@spheresystems.co.uk>  Mon, 07 Jun 2010 18:25:48 +0100
+
+python-messaging (0.3-1) lucid; urgency=low
+
+  * New upstream version
+
+ -- Pablo Martí Gamboa <pmarti@warp.es>  Sun, 18 Apr 2010 10:02:45 +0200
+
+python-messaging (0.2-1) lucid; urgency=low
+
+  * New upstream version
+
+ -- Pablo Martí Gamboa <pmarti@warp.es>  Tue, 01 Sep 2009 12:52:23 +0200
+
+python-messaging (0.1-1) intrepid; urgency=low
+
+  * New upstream version
+
+ -- Pablo Martí Gamboa <pmarti@warp.es>  Tue, 03 Jan 2009 14:49:18 +0100
+
