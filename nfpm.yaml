@@ -1,0 +1,21 @@
+name: "python3-jookies-messaging"
+arch: "amd64"
+platform: "linux"
+version: "v0.5.13"
+section: "default"
+priority: "extra"
+maintainer: "Jookies LTD <jasmin@jookies.net>"
+description: "Python3 library for communicating with AMQP peers and brokers using Twisted"
+vendor: "Esteve Fernandez"
+homepage: "https://github.com/jookies/txamqp"
+license: "Apache 2"
+replaces:
+  - python3-jookies-messaging
+provides:
+  - python3-jookies-messaging
+depends:
+  - python3 (>= 3.7)
+  - python3-pip
+scripts:
+  postinstall: ./misc/packaging/scripts/common-postinstall.sh
+  preremove: ./misc/packaging/scripts/common-preremove.sh
