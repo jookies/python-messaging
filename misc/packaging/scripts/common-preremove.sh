@@ -1,4 +1,6 @@
 #!/bin/bash
 set -e
 
-pip3 uninstall -y python-messaging
+PYPI_NAME="python-messaging"
+
+pip3 uninstall -y "$PYPI_NAME"
